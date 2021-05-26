@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: "Roboto", sans-serif;
+    
+    }
+    
+  /*  #pag{
+background:url(.jpg) no-repeat;
+background-size: cover;
+
+    }*/
+    #pag{
+
+        background-color: #ffffff;
+    }
+   
+label{
+color:rgb(8, 8, 8);
+
+}
+#img{
+color:#fff;
+
+}
+    header{
+    position: fixed;
+    background:#22242A;
+    padding: 20px;
+    width:100%;
+    height:40px;
+    
+    }
+    
+    .left-area h3{
+    color:#fff;
+    margin:0;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 900;
+    
+    }
+   
+    .left-area span{
+    
+    color:#1DC4E7;
+    }
+    .logout_btn{
+    padding:5px;
+    background:#19B3D3;
+    text-decoration: none;
+    float:right;
+    margin-top: -30px;
+    margin-right: 40px;
+    border-radius:2px;
+    font-size:15px;
+    font-weight: 600;
+    color: #fff;
+    transition: 0.5s;
+    transition-property: background;
+        }
+       
+        h1{
+            color:#0D9DBB;
+
+        }
+        .ver{padding:5px;
+            background:#19B3D3;
+            text-decoration: none;
+            float:right;
+            margin-top: -30px;
+            margin-right: 40px;
+            border-radius:2px;
+            font-size:15px;
+            font-weight: 600;
+            color: #fff;
+            transition: 0.5s;
+            transition-property: background;}
+
+    .logout_btn:hover{
+    background:#0D9DBB;
+    
+    }
+  
+  /*///CARRINHO*/
+
+#cart_count{
+text-align:center;
+padding:0 0.9rem 0.1rem 0.9rem;
+border-radius:3rem;
+
+}

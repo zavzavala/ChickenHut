@@ -1,0 +1,13 @@
+.img-responsive,
+.carousel.vertical .carousel-inner > .item > img,
+.carousel.vertical .carousel-inner > .item > a > img {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+img, .media-object{
+  border-radius: 50px;
+}
+#bod{
+    background-color: red;
+}
